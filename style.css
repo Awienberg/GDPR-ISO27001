@@ -70,3 +70,28 @@ li {
 li a:hover {
     color: #ccc;
 }
+
+.hgdpr {
+    padding: 60px;
+    text-align: center;
+    background: black;
+    color: white;
+    font-size: 30px;
+  }
+  
+  /* Page Content */
+  .content1 {
+    padding:20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+  .info{
+      padding: 10px;
+      text-align: justify;
+      }
+   
+.hvid{
+    color: white;
+}
